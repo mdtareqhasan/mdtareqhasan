@@ -85,14 +85,14 @@ public class TareqHasan {
 ### 🏥 [Medicare HMS](https://github.com/mdtareqhasan/Medicare_HMS) — Hospital Management System
 🏥 Production-ready full-stack hospital management system powered by Groq AI (CureBot) — manages patients, doctors, appointments, prescriptions & billing with intelligent assistance.
 
-🤖 AI-Powered CureBot — Real-time medical FAQs, appointment guidance & lab result explanations via Groq llama-3.1-8b-instant
-🩺 Full patient lifecycle — profiles, medical history, prescriptions & lab reports
-👨‍⚕️ Doctor scheduling, conflict detection & specialization management
-💊 Pharmacy inventory, dispensing workflow & prescription tracking
-🧪 Lab test requests, sample tracking & result submission
-🧾 Billing & invoicing in BDT (৳) with payment status tracking
-📊 Analytics dashboard with real-time metrics & reports
-🔐 JWT Auth with role-based access for 6 user types
+- 🤖 AI-Powered CureBot — Real-time medical FAQs, appointment guidance & lab result explanations via Groq llama-3.1-8b-instant
+- 🩺 Full patient lifecycle — profiles, medical history, prescriptions & lab reports
+- 👨‍⚕️ Doctor scheduling, conflict detection & specialization management
+- 💊 Pharmacy inventory, dispensing workflow & prescription tracking
+- 🧪 Lab test requests, sample tracking & result submission
+- 🧾 Billing & invoicing in BDT (৳) with payment status tracking
+- 📊 Analytics dashboard with real-time metrics & reports
+- 🔐 JWT Auth with role-based access for 6 user types
 
 Tech: React 18 · TypeScript · Spring Boot 3.2 · Java 17 · MySQL 8+ · Groq AI · JWT · Tailwind CSS
 
